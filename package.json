@@ -64,12 +64,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rabin-thami/nepali-words.git"
+    "url": "git+https://github.com/rabin-thami/number-to-nepali-words.git"
   },
   "bugs": {
-    "url": "https://github.com/rabin-thami/nepali-words/issues"
+    "url": "https://github.com/rabin-thami/number-to-nepali-words"
   },
-  "homepage": "https://github.com/rabin-thami/nepali-words#readme",
+  "homepage": "https://github.com/rabin-thami/number-to-nepali-words#readme",
   "devDependencies": {
     "ava": "^6.2.0"
   }
