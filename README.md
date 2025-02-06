@@ -1,13 +1,13 @@
 # Nepali Number Converter
 
-A lightweight, versatile toolkit to convert numbers between English and Nepali formats. Whether you need to transform numerals into Nepali digits, spell out numbers as words, or format currency amounts, nepali-words has you covered. This package is ideal for projects requiring Nepali localization, internationalization (i18n), and currency conversion.
+A lightweight, versatile toolkit to convert numbers between English and Nepali formats. Whether you need to transform numerals into Nepali digits, spell out numbers as words, or format currency amounts, number-to-nepali-words has you covered. This package is ideal for projects requiring Nepali localization, internationalization (i18n), and currency conversion.
 
 ## 🚀 Quick Start
 
 Install the package in your project:
 
 ```bash
-npm install nepali-words
+npm install number-to-nepali-words
 ```
 
 ## 📖 How to Use
@@ -17,7 +17,7 @@ npm install nepali-words
 Import the converter and use it to convert numbers between English and Nepali formats:
 
 ```javascript
-import convert from "nepali-words";
+import convert from "number-to-nepali-words";
 
 // Convert English to Nepali numbers:
 convert("123", "toNp"); // Returns: १२३
@@ -104,4 +104,4 @@ convert("1300000000000", "toNpWord");
 
 This project is licensed under the MIT License. Feel free to use and modify it in your projects.
 
-Keywords: Nepali, number converter, English to Nepali, Nepali words, currency conversion, localization, i18n, npm package, nepali-words, numeral conversion
+Keywords: Nepali, number converter, English to Nepali, Nepali words, currency conversion, localization, i18n, npm package, nepali-words, numeral conversion, number-to-nepali-words

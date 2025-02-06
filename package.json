@@ -1,5 +1,5 @@
 {
-  "name": "nepali-words",
+  "name": "number-to-nepali-words",
   "version": "1.0.0",
   "description": "Convert numbers between English and Nepali numerals, words, and currency formats. Supports Nepali language representation of numbers. Includes currency formatting (if applicable).",
   "main": "src/index.js",
